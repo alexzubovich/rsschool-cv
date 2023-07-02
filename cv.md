@@ -1,7 +1,7 @@
 # Alexey Zubovich
 
 ## Contact information:
-Phone: +375 44 542-66-51
+Phone: +375 44 542-66-51<br>
 Email: alex.zubovich@gmail.com
 
 ## About me:
